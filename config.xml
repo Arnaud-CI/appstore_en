@@ -4,7 +4,7 @@
 	id        = "eu.pcm.hycare-en"
 	version   = "1.0.0">
 
-	<name>PCM HyCare EN</name>
+	<name>PCM HyCare</name>
 	
 	<description>Presentation of Hycare, hygienic progressing cavity pump by PCM.</description>
 	
